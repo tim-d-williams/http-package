@@ -1,0 +1,22 @@
+{
+  "name": "http-package",
+  "version": "1.0.0",
+  "description": "http package exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-d-williams/http-package.git"
+  },
+  "author": "Tim Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim-d-williams/http-package/issues"
+  },
+  "homepage": "https://github.com/tim-d-williams/http-package#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
